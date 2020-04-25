@@ -4,7 +4,7 @@ Feature: Perform all the functions in TestMeApp
   @Registration
   Scenario: I want to register successfully in TestMeApp
     Given I will be on SignUp page
-    When I will enter username "zzzzxxzzpravin918"
+    When I will enter username "zzxxyyyzzpravin918"
     And I will enter firstname,lastname "pravin" , "singh"
     And I will enter password,confirmPassword "pravin" , "pravin"
     And I will select gender as Male
